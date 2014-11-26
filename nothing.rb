@@ -1,1 +1,1 @@
-puts "hi de hi"
+puts "hi de"
